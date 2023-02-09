@@ -1,0 +1,8 @@
+portname;ip;desription;drivername
+3145;ip_адрес_принтера;3145;Kyocera ECOSYS M3145dn KX
+2040;ip_адрес_принтера;2040;Kyocera ECOSYS P2040dn KX
+2035;ip_адрес_принтера;Бухгалтерия;Kyocera ECOSYS M2035dn KX
+1035t;ip_адрес_принтера;Тр.Отдел;Kyocera FS-1035MFP KX
+1035u;ip_адрес_принтера;Юр.Отдел;Kyocera FS-1035MFP KX
+4833FR;ip_адрес_принтера;ОК;Samsung SCX-483x 5x3x Series
+4833FD;ip_адрес_принтера;Гл.Бух.;Samsung SCX-483x 5x3x Series
